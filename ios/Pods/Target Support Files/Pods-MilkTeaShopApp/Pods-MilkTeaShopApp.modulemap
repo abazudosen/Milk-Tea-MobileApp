@@ -1,0 +1,6 @@
+module Pods_MilkTeaShopApp {
+  umbrella header "Pods-MilkTeaShopApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
